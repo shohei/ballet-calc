@@ -3,3 +3,8 @@ __pycache__/
 .DS_Store
 sample.m
 image.png
+runs/
+.serena/
+skirt/*.blend
+skirt/*.blend1
+skirt/*_progress.log
